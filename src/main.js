@@ -6,7 +6,7 @@ import ElementUI from 'element-ui'
 // import formCreate from '@form-create/element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 Vue.use(ElementUI)
-// Vue.use(formCreate)
+// Vue.use(formCreate )
 Vue.config.productionTip = false
 
 new Vue({
